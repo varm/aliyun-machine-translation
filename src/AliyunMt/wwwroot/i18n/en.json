@@ -1,0 +1,23 @@
+{
+    "locale": {
+      "en": "English",
+      "french": "French",
+      "latvian": "Latvian"
+    },
+    "nav": {
+      "home": "Home",
+      "about": "About"
+    },
+    "home": {
+      "header": "Welcome to our tutorial!",
+      "created_by": "This tutorial was brought to you by {{company}}.",
+      "num_visits": {
+        "one": "This page has been visited {{n}} time",
+        "other": "This page has been visited {{n}} times"
+      }
+    },
+    "about": {
+      "header": "About us",
+      "donations": "Donations raised: {{donations}}"
+    }
+  }
